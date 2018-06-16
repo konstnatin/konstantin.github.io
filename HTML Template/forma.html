@@ -1,0 +1,38 @@
+
+</body>
+</html>
+<html>
+<head>
+<title>Форма заказа</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<link href="styling.css" rel="stylesheet" type="text/css" media='screen,projection' />
+</head>
+<body>
+
+<h2>Форма заказа</h2>
+<p id="emailSuccess">
+<strong style="color:green;"><?php echo "$statusSuccess" ?></strong>
+</p>
+<p id="emailError"><strong style="color:red;"><?php echo "$statusError" ?></strong></p>
+
+<div id="contactFormArea">
+<form action="./" method="post" id="cForm">
+<input type="hidden" name="act" value="y" />
+<fieldset>
+<label for="posName"><b>Ваше имя:</b></label>
+<input class="text" type="text" size="25" name="posName" id="posName" />
+<label for="posEmail"><b>Ваш номер телефона:</b></label>
+<input class="text" type="text" size="25" name="posEmail" id="posEmail" />
+<label for="posRegard"><b>Название товара:</b></label>
+<input class="text" type="text" size="25" name="posRegard" id="posRegard" />
+<label for="posText"><b>Сообщение:</b></label>
+<textarea cols="50" rows="20" name="posText" id="posText"></textarea>
+<br><br><label><input class="submit" type="submit" name="selfCC" id="selfCC" value=" Отправить " /></label>
+
+
+
+</form>
+</div>
+
+</body>
+</html>

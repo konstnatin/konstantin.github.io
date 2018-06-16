@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inside"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wl",
+				"wl"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/css/styles.css",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/faq.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/gallery.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/prepros.cfg",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/contact.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/pricing-table.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/domains.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/typography.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/services.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/domains - copia.html",
+		"/F/Trabajos/TF_CoralixThemes/63-Renova/demo/templates/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/js/script.js",
+		"/F/Trabajos/TF_CoralixThemes/63-Renova/demo/templates/js/script.js",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/js/vendors/isotope/jquery.isotope.min.js",
+		"/F/Trabajos/TF_CoralixThemes/49- Stark HTML/themeforest-6694412-stark-health-fitness-html5-responsive-template/html/classes.html",
+		"/F/Trabajos/TF_CoralixThemes/49- Stark HTML/themeforest-6694412-stark-health-fitness-html5-responsive-template/html/js/script.js",
+		"/F/Trabajos/TF_CoralixThemes/49- Stark HTML/themeforest-6694412-stark-health-fitness-html5-responsive-template/html/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/02/html-demo-final/medical/template/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/02/html-demo-final/medical/template/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/js/vendors/revolution/css/extralayers.css",
+		"/F/Trabajos/TF_CoralixThemes/70-kickbox html/KickBox-demo/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/70-kickbox html/KickBox-demo/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/css/styles.css",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/js/script.js",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/contact.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/css/vendors/owl.theme.css",
+		"/F/Trabajos/TF_CoralixThemes/58-Calipso - Responsive Real Estate Theme/02/html-demo/calipso-real-estate-template/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/js/vendors/revolution/css/settings-ie8.css",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/js/vendors/revolution/css/settings.css",
+		"/F/Trabajos/TF_CoralixThemes/14-Scotty/3.0/html-demo/index.html",
+		"/F/Trabajos/TF_CoralixThemes/14-Scotty/3.0/html-demo/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/14-Scotty/3.0/html-demo/js/script.js",
+		"/F/Trabajos/TF_Mustache/22- Air HTML/air/html/index.html",
+		"/F/Trabajos/TF_CoralixThemes/61-Learn Landing/02/html-demo/learn_theme/index.html",
+		"/F/Trabajos/TF_CoralixThemes/61-Learn Landing/02/html-demo/learn_theme/css/style.css",
+		"/F/Trabajos/TF_Mustache/22- Air HTML/air/html/css/style.css",
+		"/F/Trabajos/TF_Mustache/22- Air HTML/air/html/js/script.js",
+		"/F/Trabajos/TF_Mustache/28-Skyfall/skyfall/tvdark/index.html",
+		"/F/Trabajos/TF_Mustache/28-Skyfall/skyfall/tvdark/css/styles.css",
+		"/F/Trabajos/TF_Mustache/28-Skyfall/skyfall/tvdark/js/script.js",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/01/original/html-demo/template/index.html",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/01/actualizacion/html-demo/template/js/scripts.js",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/01/actualizacion/html-demo/template/plugins/jquery.easy-pie-chart/jquery.easy-pie-chart.js",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/01/actualizacion/html-demo/template/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/01/original/html-demo/template/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/02/html-demo-final/medical/template/event.html",
+		"/F/Trabajos/TF_CoralixThemes/63-Renova/demo/templates/css/styles.css",
+		"/F/Trabajos/TF_Mustache/31-Conference Landing/html-demo/index.html",
+		"/F/Trabajos/TF_Mustache/31-Conference Landing/html-demo/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/53-Campus/02/html-demo/campus/html/index.html",
+		"/F/Trabajos/TF_CoralixThemes/70-kickbox html/KickBox-demo/js/script.js",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/about-us.html",
+		"/F/Trabajos/TF_CoralixThemes/70-kickbox html/KickBox-demo/club.html",
+		"/F/Trabajos/TF_Mustache/30-GYM Guide Landing/original/html-demo/index.html",
+		"/F/Trabajos/TF_CoralixThemes/58-Calipso - Responsive Real Estate Theme/01/actualizacion/html-demo/index.html",
+		"/F/Trabajos/TF_CoralixThemes/58-Calipso - Responsive Real Estate Theme/01/actualizacion/html-demo/js/script.js",
+		"/F/Trabajos/TF_CoralixThemes/58-Calipso - Responsive Real Estate Theme/01/actualizacion/html-demo/css/styles.css",
+		"/F/Trabajos/TF_Mustache/30-GYM Guide Landing/original/html-demo/js/script.js",
+		"/F/Trabajos/TF_Mustache/30-GYM Guide Landing/original/html-demo/css/styles.css",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/html/contact.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/html/css/styles.css",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/html/js/script.js",
+		"/F/Trabajos/TF_CoralixThemes/58-Calipso - Responsive Real Estate Theme/02/html-demo/calipso-real-estate-template/js/script.js",
+		"/F/Trabajos/TF_CoralixThemes/58-Calipso - Responsive Real Estate Theme/02/html-demo/calipso-real-estate-template/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/44- Fitness GYM html/final/html-demo/fitness/css/styles.css",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/html/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/js/vendors/jquery/jquery.nav.js",
+		"/F/Trabajos/TF_CoralixThemes/44- Fitness GYM html/final/html-demo/fitness/js/script.js",
+		"/F/Trabajos/TF_CoralixThemes/44- Fitness GYM html/final/html-demo/fitness/index.html",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/01/actualizacion/html-demo/template/css/default-skin.css",
+		"/F/Trabajos/TF_CoralixThemes/50- Medical HTML/02/html-demo-final/medical/template/header-1.html",
+		"/F/Trabajos/TF_Mustache/34-Condo HTML/Condo HTML/html_demo/condo_template/index-default/css/style.css",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-original/index.html",
+		"/F/Trabajos/TF_Mustache/34-Condo HTML/Condo HTML/html_demo/condo_template/index-default/index.html",
+		"/F/Trabajos/TF_Mustache/30-GYM Guide Landing/actualizacion/html/index.html",
+		"/F/Trabajos/TF_Mustache/30-GYM Guide Landing/actualizacion/html/css/styles.css",
+		"/F/Trabajos/TF_CoralixThemes/29-Celegorm Landing Page/02/html-demo/celegorm/cyan/index.html",
+		"/F/Trabajos/TF_CoralixThemes/29-Celegorm Landing Page/02/html-demo/celegorm/cyan/css/style.css",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/time-table.html",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/trainers.html",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/trainers-single.html",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/classes-two.html",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/contact-form.php",
+		"/C/Users/Usuario/Dropbox/Mathias/maq.20-Mauricio/version 2/maq 20 verion 2/sitioweb/blog-three.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html-actu/js/omnibiz-custom.js",
+		"/C/Users/Usuario/Dropbox/Mathias/Hosting Services/html/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/index-video.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/typography.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/products.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/products_grid.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/products_list.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/products_single.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/sermons.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/about_us.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/blog_grid.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/blog_list.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/blog_single.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/calendar.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/cart_checkout.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/contact.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/donation.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/events.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/gallery.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/index-parallax.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html/404.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/products.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/products_grid.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/products_list.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/sermons.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/products_single.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/typography.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/404.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/about_us.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/blog_grid.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/blog_list.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/blog_single.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/calendar.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/cart_checkout.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/contact.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/donation.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/events.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/gallery.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/index.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/index-parallax.html",
+		"/C/Users/Usuario/Dropbox/Mathias/Church and Comunity theme for churches/html-demo/green/index-video.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Usuario\\Dropbox\\Mathias\\Church and Comunity theme for churches\\html-actu\\html",
+			"",
+			"C:\\Users\\Usuario\\Dropbox\\Mathias\\Church and Comunity theme for churches\\html-actu\\html",
+			"C:\\Users\\Usuario\\Dropbox\\Mathias\\Church and Comunity theme for churches\\html-actu\\html-demo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".section-title",
+			"facili",
+			"\");\n",
+			"serv",
+			"page",
+			"page-ti",
+			"faq",
+			".services",
+			"our ser",
+			".domains-item",
+			".pricing .pricing-item li .btn",
+			".patners",
+			".pricing .pricing-item",
+			"footer .section-title",
+			"section-title",
+			".patners .owl-theme .owl-controls",
+			"patterns",
+			"Bootstrap",
+			"section-title",
+			"orm-con",
+			"contact",
+			".filters",
+			"galle",
+			"classes",
+			"class",
+			"button",
+			"classes",
+			"item thu",
+			"isot",
+			"domain",
+			"-webkit-transition: all 0.2s ease-in-out;\n	-moz-transition: all 0.2s ease-in-out;\n	-o-transition: all 0.2s ease-in-out;\n	-ms-transition: all 0.2s ease-in-out;\n	transition: all 0.2s ease-in-out;",
+			"domain",
+			"secondary",
+			"tabbed-pills a",
+			".tabbed-pills a:after",
+			"tabs",
+			"Specialization",
+			"tab-pane",
+			"secondary",
+			"domain",
+			"btn",
+			"-webkit-transition: all 0.2s ease-in-out;\n	-moz-transition: all 0.2s ease-in-out;\n	-o-transition: all 0.2s ease-in-out;\n	-ms-transition: all 0.2s ease-in-out;\n	transition: all 0.2s ease-in-out;",
+			"h2",
+			"conta",
+			"cont",
+			"map",
+			"tool",
+			"Pricing Table",
+			"Item Thumbnail",
+			"form",
+			";\n",
+			" black_bold_bg_20",
+			"onHoverStop",
+			"preview2",
+			"slide",
+			"revo",
+			"serv",
+			"cool-thingsç",
+			"cool-things\"",
+			"serv",
+			"testi",
+			"owl",
+			"device",
+			"devaice",
+			"data-original-title=\"Flickr\"",
+			"socia",
+			"toolt",
+			"tool",
+			"toolt",
+			"tool",
+			"+",
+			"tool",
+			"to",
+			"toolt",
+			"footer",
+			"social",
+			"media-heading",
+			"media-body",
+			"media-bo",
+			"tab",
+			"tabs",
+			"testi",
+			"footer",
+			"copy",
+			"servic",
+			"feat",
+			"ralew",
+			"nav",
+			"panel",
+			"about",
+			"accor",
+			"facil",
+			"serv",
+			"parallax",
+			"newslet",
+			"news",
+			".owl-controls .owl-prev:before, .sponsors .owl-controls .owl-next:before",
+			"prici",
+			"FEAT",
+			"FEATÇ",
+			"owl",
+			"control",
+			"patne",
+			"fli",
+			"fllick",
+			"flick",
+			"map",
+			"gmap",
+			"carousel",
+			"news",
+			"parallax",
+			"news",
+			"section",
+			"section-to",
+			"feat",
+			"feaat",
+			"feat",
+			"galle",
+			"one-fourth",
+			".pricing .pricing-item li .btn",
+			"pricing",
+			"arrow",
+			"pricing",
+			"section.pricing .pricing-table li.price",
+			"#table",
+			"section_area",
+			"section",
+			"pricing"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"gallery",
+			"2015",
+			"",
+			"#02605D",
+			"#007F7B",
+			"#898989",
+			"#D4D4D4",
+			"#f4f3f6",
+			"#3e4043",
+			"#D14D42",
+			"#3e4043",
+			"2015",
+			"sermons",
+			"events",
+			"2015",
+			"events",
+			"sermons",
+			"events",
+			"fac11c",
+			"project",
+			"list",
+			"kickbox/",
+			"kickbox",
+			"Kickbox",
+			"London",
+			"london",
+			"london/"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "styles.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"css\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

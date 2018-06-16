@@ -1,0 +1,42 @@
+
+</body>
+</html>
+<html>
+<head>
+<title>Регистрация</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<link href="styling.css" rel="stylesheet" type="text/css" media='screen,projection' />
+</head>
+<body>
+
+<h2>Регистрация</h2>
+<p id="emailSuccess">
+<strong style="color:green;"><?php echo "$statusSuccess" ?></strong>
+</p>
+<p id="emailError"><strong style="color:red;"><?php echo "$statusError" ?></strong></p>
+
+<div id="contactFormArea">
+<form action="./" method="post" id="cForm">
+<input type="hidden" name="act" value="y" />
+<fieldset>
+<label for="posName"><b>Введите ваше имя:</b></label>
+<input class="text" type="text" size="25" name="posName" id="posName" />
+<label for="posEmail"><b>Введите ваш email:</b></label>
+<input class="text" type="text" size="25" name="posEmail" id="posEmail" />
+<label for="posName"><b>Придумайте пароль:</b></label>
+<input class="text" type="text" size="25" name="posName" id="posName" />
+<label for="posName"><b>Повторите пароль:</b></label>
+<input class="text" type="text" size="25" name="posName" id="posName" />
+<label for="posRegard"><b>Введите ваш номер телефона:</b></label>
+<input class="text" type="text" size="25" name="posRegard" id="posRegard" />
+
+
+<br><br><label><input class="submit" type="submit" name="selfCC" id="selfCC" value=" Зарегистрироваться " /></label>
+
+
+
+</form>
+</div>
+
+</body>
+</html>
